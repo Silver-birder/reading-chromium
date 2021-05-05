@@ -17,7 +17,7 @@
 
 * [v8](https://v8.dev/)
 
-## rendering engine
+## rendering engine (browser engine)
 
 * [webkit](https://webkit.org/)
 * [blink](https://www.chromium.org/blink)
