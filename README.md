@@ -25,3 +25,4 @@
 # misc
 
 * [Webブラウザ、レンダリングエンジン、JavaScriptエンジンを整理して図視化してみた](https://qiita.com/umashiba/items/8cb47825624c5cb043d6)
+* [Chromium Browser Advent Calendar 2017](https://qiita.com/advent-calendar/2017/chromium)
