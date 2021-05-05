@@ -20,6 +20,7 @@
 ## rendering engine
 
 * [webkit](https://webkit.org/)
+* [blink](https://www.chromium.org/blink)
 
 # misc
 
