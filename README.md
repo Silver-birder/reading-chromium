@@ -18,6 +18,7 @@
 * [v8](https://v8.dev/)
   * [ignition](https://v8.dev/docs/ignition)
   * [turbofan](https://v8.dev/docs/turbofan)
+* [toy javascript engine](https://github.com/maekawatoshiki/rapidus)
 
 ## rendering engine (browser engine)
 
